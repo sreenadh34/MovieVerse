@@ -1,6 +1,6 @@
-# Netfix-GPT
+# MovieVerse
 
-Netfix-GPT is a web application that allows users to browse and search for movies across various categories such as Now Playing, Popular, Top Rated, and Upcoming. Additionally, users can search for specific genres or themes and get movie suggestions based on their preferences using OpenAI's GPT technology.
+MovieVerse is a web application that allows users to browse and search for movies across various categories such as Now Playing, Popular, Top Rated, and Upcoming. Additionally, users can search for specific genres or themes and get movie suggestions based on their preferences using OpenAI's GPT technology.
 
 ## Features
 
