@@ -41,8 +41,7 @@ You need to obtain API keys for both TMDB and OpenAI.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/netfix-gpt.git
-   cd netfix-gpt
+   git clone https://github.com/sreenadh34/MovieVerse.git
 
 2. **Install dependencies:**
 
